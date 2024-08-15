@@ -54,11 +54,3 @@
     <img src="https://img.shields.io/badge/GitHub-OSS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 8px; transition: transform 0.3s ease, box-shadow 0.3s ease;">
   </a>
 </div>
-
-<!-- Add these styles for hover effects -->
-<style>
-  a:hover img {
-    transform: scale(1.1);
-    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.6);
-  }
-</style>
