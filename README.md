@@ -1,12 +1,17 @@
-## 🌐 About Me
-<div align="center" style="font-size: 18px; color: #e0e0e0; text-align: center; padding: 20px;">
-  <p>🔭 Currently working on <a href="https://github.com/ossfr/OSS" style="color: #61dafb; text-decoration: none; font-weight: bold; border-bottom: 1px solid #61dafb; transition: color 0.3s ease, border-bottom 0.3s ease;">**OSS Hub**</a></p>
-  <p>🌱 Learning <a href="https://www.python.org" style="color: #306998; text-decoration: none; font-weight: bold; border-bottom: 1px solid #306998; transition: color 0.3s ease, border-bottom 0.3s ease;">**Python**</a> and expanding my skills</p>
-  <p>💬 Lua Developer specializing in creating exploits for <a href="https://roblox.com" style="color: #ffcc00; text-decoration: none; font-weight: bold; border-bottom: 1px solid #ffcc00; transition: color 0.3s ease, border-bottom 0.3s ease;">**Roblox**</a></p>
-  <p>📫 Join my Discord community: <a href="https://discord.gg/6Cd68uQn2J" style="color: #7289da; text-decoration: none; font-weight: bold; border-bottom: 1px solid #7289da; transition: color 0.3s ease, border-bottom 0.3s ease;">**Discord**</a></p>
+<div align="center" style="font-size: 24px; color: #e0e0e0; margin-bottom: 20px;">
+  <h2>🌐 About Me</h2>
 </div>
 
-## 🛠️ My Tech Stack
+<div style="font-size: 18px; color: #e0e0e0; text-align: left; padding: 0 20px;">
+  <p>🔭 Currently working on <a href="https://github.com/ossfr/OSS" style="color: #61dafb; text-decoration: none; border-bottom: 1px solid #61dafb; transition: color 0.3s ease, border-bottom 0.3s ease;">OSS Hub</a></p>
+  <p>🌱 Learning <a href="https://www.python.org" style="color: #306998; text-decoration: none; border-bottom: 1px solid #306998; transition: color 0.3s ease, border-bottom 0.3s ease;">Python</a> and expanding my skills</p>
+  <p>💬 Lua Developer specializing in creating exploits for <a href="https://roblox.com" style="color: #ffcc00; text-decoration: none; border-bottom: 1px solid #ffcc00; transition: color 0.3s ease, border-bottom 0.3s ease;">Roblox</a></p>
+  <p>📫 Join my Discord community: <a href="https://discord.gg/6Cd68uQn2J" style="color: #7289da; text-decoration: none; border-bottom: 1px solid #7289da; transition: color 0.3s ease, border-bottom 0.3s ease;">Discord</a></p>
+</div>
+
+<div align="center" style="font-size: 24px; color: #e0e0e0; margin: 20px 0;">
+  <h2>🛠️ My Tech Stack</h2>
+</div>
 
 <div align="center" style="padding: 20px; background: #121212; border-radius: 12px; display: inline-block; border: 2px solid #1f1f1f; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);">
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
@@ -31,7 +36,9 @@
   </div>
 </div>
 
-## 📊 GitHub Stats
+<div align="center" style="font-size: 24px; color: #e0e0e0; margin: 20px 0;">
+  <h2>📊 GitHub Stats</h2>
+</div>
 
 <div align="center" style="padding: 20px; background: #121212; border-radius: 12px; display: inline-block; border: 2px solid #1f1f1f; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);">
   <a href="https://github.com/ossfr" target="_blank" style="text-decoration: none;">
@@ -40,7 +47,9 @@
   </a>
 </div>
 
-## 🔗 Connect with Me
+<div align="center" style="font-size: 24px; color: #e0e0e0; margin: 20px 0;">
+  <h2>🔗 Connect with Me</h2>
+</div>
 
 <div align="center" style="padding: 20px; background: #121212; border-radius: 12px; display: inline-block; border: 2px solid #1f1f1f; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);">
   <a href="https://osshub.xyz" target="_blank" style="text-decoration: none; margin: 5px;">
