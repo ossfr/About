@@ -35,9 +35,6 @@
     <a href="https://www.lua.org/" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
     </a>
-    <a href="https://www.python.org/" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    </a>
     <a href="https://github.com/" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
