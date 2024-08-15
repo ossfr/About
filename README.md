@@ -1,7 +1,7 @@
 ## About Me
 - 🔭 I’m currently working on [OSS Hub](https://github.com/ossfr/OSS)
 - 🌱 I’m currently learning [Python](https://www.python.org)
-- 💬 I Am A Professional Lua Developer Creating Exploits for [Roblox](https://roblox.com)
+- 💬 I Am A Lua Developer Creating Exploits for [Roblox](https://roblox.com)
 - 📫 How to reach me: [Discord](https://discord.gg/6Cd68uQn2J)
 
 ## 🛠️ My Tech Stack
