@@ -2,9 +2,9 @@
 
 ## About Me
 - 🔭 I’m currently working on [OSS Hub](https://github.com/ossfr/OSS)
-- 🌱 I’m currently learning [Python]
-- 💬 Ask me about [I Am A Professional Lua Developer]
-- 📫 How to reach me: [https://discord.gg/6Cd68uQn2J]
+- 🌱 I’m currently learning [Python](https://www.python.org)
+- 💬 I Am A Professional Lua Developer Making Roblox Exploits
+- 📫 How to reach me: [Discord](https://discord.gg/6Cd68uQn2J)
 
 ## 🛠️ My Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
