@@ -1,5 +1,3 @@
-# Hi there! 👋
-
 ## About Me
 - 🔭 I’m currently working on [OSS Hub](https://github.com/ossfr/OSS)
 - 🌱 I’m currently learning [Python](https://www.python.org)
