@@ -1,4 +1,4 @@
-<div align="center" style="font-size: 24px; color: #e0e0e0; margin-bottom: 20px;">
+<div align="left" style="font-size: 24px; color: #e0e0e0; margin-bottom: 20px;">
   <h2>🌐 About Me</h2>
 </div>
 
